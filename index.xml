@@ -5,7 +5,16 @@
     <link>/</link>
     <description>Recent content on XiaoYu Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 01:26:07 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2023 01:25:16 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GithubActionTest</title>
+      <link>/posts/daliy/githubactiontest/</link>
+      <pubDate>Sun, 05 Mar 2023 01:25:16 +0800</pubDate>
+      
+      <guid>/posts/daliy/githubactiontest/</guid>
+      <description>测试github action是否配置成功 This is a Test </description>
+    </item>
+    
     <item>
       <title></title>
       <link>/about/</link>
